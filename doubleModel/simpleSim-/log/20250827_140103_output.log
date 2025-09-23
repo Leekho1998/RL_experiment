@@ -1,0 +1,1174 @@
+Namespace(algorithm_name='DQN', reward_name='et_balance', sort_name='FirstSubmit', workload_path='./dataset/workload_ali2025.csv', host_path='./dataset/host_same.csv', log_path='./log/', episode=10)
+Episode: 0
+Task instance_13354 scheduled on host 3
+Task instance_13363 scheduled on host 3
+epsilon: 0.95
+time: 0, total reward: -5.865972222222222, assign_num: 2, avg reward: -2.932986111111111
+Current time: 1, Done: 0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:78.75,accumulatedCost:0.00301875
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Current time: 2, Done: 0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:157.5,accumulatedCost:0.0060375
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Task instance_13397 scheduled on host 35
+epsilon: 0.9025
+time: 2, total reward: -1.7947916666666668, assign_num: 1, avg reward: -1.7947916666666668
+Current time: 3, Done: 0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:236.25,accumulatedCost:0.00905625
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Current time: 4, Done: 0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:83.25,accumulatedCost:0.00319125
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:315.0,accumulatedCost:0.012075
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Current time: 5, Done: 0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:124.875,accumulatedCost:0.004786875
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:393.75,accumulatedCost:0.015093750000000001
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Task instance_13470 scheduled on host 5
+Task instance_13471 scheduled on host 14
+epsilon: 0.8573749999999999
+time: 5, total reward: -4.873402777777778, assign_num: 2, avg reward: -2.436701388888889
+Current time: 6, Done: 0
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:166.5,accumulatedCost:0.0063825
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:68.625,accumulatedCost:0.002630625
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:472.5,accumulatedCost:0.0181125
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:72.0,accumulatedCost:0.0027600000000000003
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Current time: 7, Done: 0
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:208.125,accumulatedCost:0.007978125
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:137.25,accumulatedCost:0.00526125
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:551.25,accumulatedCost:0.02113125
+Host 30: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:144.0,accumulatedCost:0.005520000000000001
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Task instance_13525 scheduled on host 30
+Task instance_13526 scheduled on host 20
+Task instance_13534 scheduled on host 13
+Task instance_13535 scheduled on host 7
+Task instance_13543 scheduled on host 25
+epsilon: 0.8145062499999999
+time: 7, total reward: -9.239553571428571, assign_num: 5, avg reward: -1.8479107142857143
+Current time: 8, Done: 0
+Host 8: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 2: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:205.875,accumulatedCost:0.007891875
+Host 13: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13534']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 4: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:630.0,accumulatedCost:0.02415
+Host 35: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13397']
+energyConsumption:41.625,accumulatedEnergy:249.75,accumulatedCost:0.00957375
+Host 15: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 29: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 10: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:216.0,accumulatedCost:0.008280000000000001
+Host 33: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 11: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 36: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 25: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13543']
+energyConsumption:45.0,accumulatedEnergy:45.0,accumulatedCost:0.001725
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 6: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 0: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 31: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 37: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 27: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 1: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 17: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13535']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 9: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 28: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13525']
+energyConsumption:45.0,accumulatedEnergy:45.0,accumulatedCost:0.001725
+Host 21: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Task instance_13546 scheduled on host 15
+Task instance_13547 scheduled on host 27
+Task instance_13554 scheduled on host 9
+Task instance_13571 scheduled on host 36
+Task instance_13572 scheduled on host 12
+Task instance_13573 scheduled on host 15
+Task instance_13587 scheduled on host 24
+Task instance_13588 scheduled on host 1
+Task instance_13589 scheduled on host 29
+Task instance_13590 scheduled on host 13
+Task instance_13591 scheduled on host 13
+Task instance_13592 scheduled on host 33
+Task instance_13593 scheduled on host 8
+Task instance_13594 scheduled on host 23
+Task instance_13595 scheduled on host 4
+Task instance_13596 scheduled on host 34
+Task instance_13597 scheduled on host 12
+Task instance_13598 scheduled on host 37
+Task instance_13599 scheduled on host 0
+Task instance_13600 scheduled on host 9
+Task instance_13601 scheduled on host 8
+Task instance_13602 scheduled on host 31
+Task instance_13603 scheduled on host 35
+Task instance_13604 scheduled on host 9
+Task instance_13605 scheduled on host 31
+Task instance_13606 scheduled on host 2
+Task instance_13607 scheduled on host 6
+Task instance_13608 scheduled on host 28
+Task instance_13612 scheduled on host 6
+Task instance_13613 scheduled on host 6
+Task instance_13614 scheduled on host 12
+Task instance_13617 scheduled on host 37
+Task instance_13618 scheduled on host 8
+Task instance_13623 scheduled on host 25
+Task instance_13624 scheduled on host 2
+Task instance_13625 scheduled on host 21
+Task instance_13626 scheduled on host 32
+Task instance_13628 scheduled on host 10
+Task instance_13763 scheduled on host 2
+Task instance_13780 scheduled on host 25
+Task instance_13784 scheduled on host 36
+Task instance_13785 scheduled on host 11
+Task instance_13786 scheduled on host 17
+Task instance_13788 scheduled on host 37
+Task instance_13789 scheduled on host 26
+epsilon: 0.7737809374999999
+time: 8, total reward: -64.57394328447344, assign_num: 45, avg reward: -1.4349765174327431
+Current time: 9, Done: 0
+Host 28: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13608']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 35: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13397', 'instance_13603']
+energyConsumption:75.375,accumulatedEnergy:325.125,accumulatedCost:0.012463125
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:708.75,accumulatedCost:0.027168750000000002
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 7: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13535']
+energyConsumption:48.375,accumulatedEnergy:96.75,accumulatedCost:0.0037087500000000002
+Host 36: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13571', 'instance_13784']
+energyConsumption:72.0,accumulatedEnergy:72.0,accumulatedCost:0.0027600000000000003
+Host 27: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13547']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 26: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13789']
+energyConsumption:45.0,accumulatedEnergy:45.0,accumulatedCost:0.001725
+Host 8: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13593', 'instance_13601', 'instance_13618']
+energyConsumption:102.375,accumulatedEnergy:102.375,accumulatedCost:0.003924375
+Host 31: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13602', 'instance_13605']
+energyConsumption:78.75,accumulatedEnergy:78.75,accumulatedCost:0.00301875
+Host 10: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13628']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 32: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13626']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 17: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13786']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 12: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13572', 'instance_13597', 'instance_13614']
+energyConsumption:105.75,accumulatedEnergy:105.75,accumulatedCost:0.00405375
+Host 37: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13598', 'instance_13617', 'instance_13788']
+energyConsumption:95.625,accumulatedEnergy:95.625,accumulatedCost:0.0036656250000000005
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13587']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 11: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13785']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 34: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13596']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 13: CPU=5600, MEM=8.0, GPU=250, Tasks=['instance_13534', 'instance_13590', 'instance_13591']
+energyConsumption:115.87499999999999,accumulatedEnergy:167.625,accumulatedCost:0.006425624999999999
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 30: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13525']
+energyConsumption:45.0,accumulatedEnergy:90.0,accumulatedCost:0.00345
+Host 29: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13589']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 21: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13625']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 1: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13588']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 22: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 33: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13592']
+energyConsumption:51.75,accumulatedEnergy:51.75,accumulatedCost:0.00198375
+Host 2: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13606', 'instance_13624', 'instance_13763']
+energyConsumption:105.75,accumulatedEnergy:105.75,accumulatedCost:0.00405375
+Host 15: CPU=6400, MEM=48.0, GPU=650, Tasks=['instance_13546', 'instance_13573']
+energyConsumption:68.625,accumulatedEnergy:68.625,accumulatedCost:0.002630625
+Host 6: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13607', 'instance_13612', 'instance_13613']
+energyConsumption:102.375,accumulatedEnergy:102.375,accumulatedCost:0.003924375
+Host 4: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13595']
+energyConsumption:45.0,accumulatedEnergy:45.0,accumulatedCost:0.001725
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 23: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13594']
+energyConsumption:45.0,accumulatedEnergy:45.0,accumulatedCost:0.001725
+Host 0: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13599']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 25: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13543', 'instance_13623', 'instance_13780']
+energyConsumption:109.125,accumulatedEnergy:154.125,accumulatedCost:0.005908125
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:288.0,accumulatedCost:0.011040000000000001
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:274.5,accumulatedCost:0.0105225
+Host 9: CPU=5600, MEM=8.0, GPU=300, Tasks=['instance_13554', 'instance_13600', 'instance_13604']
+energyConsumption:112.5,accumulatedEnergy:112.5,accumulatedCost:0.0043125
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:103.5,accumulatedCost:0.0039675
+done:False
+Task instance_13791 scheduled on host 0
+Task instance_13792 scheduled on host 29
+Task instance_13794 scheduled on host 7
+Task instance_13795 scheduled on host 29
+Task instance_13797 scheduled on host 11
+Task instance_13814 scheduled on host 0
+Task instance_13822 scheduled on host 10
+Task instance_13826 scheduled on host 36
+Task instance_13829 scheduled on host 1
+Task instance_13831 scheduled on host 22
+Task instance_13835 scheduled on host 4
+Task instance_13836 scheduled on host 22
+Task instance_13844 scheduled on host 30
+Task instance_13847 scheduled on host 17
+Task instance_13848 scheduled on host 1
+Task instance_13852 scheduled on host 7
+epsilon: 0.7350918906249998
+time: 9, total reward: -19.434657818139822, assign_num: 16, avg reward: -1.2146661136337389
+Current time: 10, Done: 0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 12: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13572', 'instance_13597', 'instance_13614']
+energyConsumption:105.75,accumulatedEnergy:211.5,accumulatedCost:0.0081075
+Host 30: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13525', 'instance_13844']
+energyConsumption:72.0,accumulatedEnergy:162.0,accumulatedCost:0.00621
+Host 28: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13608']
+energyConsumption:48.375,accumulatedEnergy:96.75,accumulatedCost:0.0037087500000000002
+Host 36: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13571', 'instance_13784', 'instance_13826']
+energyConsumption:95.625,accumulatedEnergy:167.625,accumulatedCost:0.006425625000000001
+Host 21: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13625']
+energyConsumption:41.625,accumulatedEnergy:83.25,accumulatedCost:0.00319125
+Host 7: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13535', 'instance_13794', 'instance_13852']
+energyConsumption:109.125,accumulatedEnergy:205.875,accumulatedCost:0.007891875
+Host 8: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13593', 'instance_13601', 'instance_13618']
+energyConsumption:102.375,accumulatedEnergy:204.75,accumulatedCost:0.00784875
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:787.5,accumulatedCost:0.030187500000000003
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 26: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13789']
+energyConsumption:45.0,accumulatedEnergy:90.0,accumulatedCost:0.00345
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:360.0,accumulatedCost:0.013800000000000002
+Host 17: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13786', 'instance_13847']
+energyConsumption:75.375,accumulatedEnergy:127.125,accumulatedCost:0.004873125
+Host 32: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13626']
+energyConsumption:48.375,accumulatedEnergy:96.75,accumulatedCost:0.0037087500000000002
+Host 29: CPU=5600, MEM=32.0, GPU=400, Tasks=['instance_13589', 'instance_13792', 'instance_13795']
+energyConsumption:99.0,accumulatedEnergy:147.375,accumulatedCost:0.005649375
+Host 2: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13606', 'instance_13624', 'instance_13763']
+energyConsumption:105.75,accumulatedEnergy:211.5,accumulatedCost:0.0081075
+Host 10: CPU=6400, MEM=48.0, GPU=700, Tasks=['instance_13628', 'instance_13822']
+energyConsumption:65.25,accumulatedEnergy:106.875,accumulatedCost:0.004096875
+Host 13: CPU=5600, MEM=8.0, GPU=250, Tasks=['instance_13534', 'instance_13590', 'instance_13591']
+energyConsumption:115.87499999999999,accumulatedEnergy:283.5,accumulatedCost:0.010867499999999999
+Host 0: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13599', 'instance_13791', 'instance_13814']
+energyConsumption:102.375,accumulatedEnergy:144.0,accumulatedCost:0.00552
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 24: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13587']
+energyConsumption:41.625,accumulatedEnergy:83.25,accumulatedCost:0.00319125
+Host 34: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13596']
+energyConsumption:51.75,accumulatedEnergy:103.5,accumulatedCost:0.0039675
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:343.125,accumulatedCost:0.013153125000000002
+Host 33: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13592']
+energyConsumption:51.75,accumulatedEnergy:103.5,accumulatedCost:0.0039675
+Host 15: CPU=6400, MEM=48.0, GPU=650, Tasks=['instance_13546', 'instance_13573']
+energyConsumption:68.625,accumulatedEnergy:137.25,accumulatedCost:0.00526125
+Host 22: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13831', 'instance_13836']
+energyConsumption:72.0,accumulatedEnergy:72.0,accumulatedCost:0.0027600000000000003
+Host 25: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13543', 'instance_13623', 'instance_13780']
+energyConsumption:109.125,accumulatedEnergy:263.25,accumulatedCost:0.01009125
+Host 11: CPU=6400, MEM=56.0, GPU=500, Tasks=['instance_13785', 'instance_13797']
+energyConsumption:76.5,accumulatedEnergy:128.25,accumulatedCost:0.0049162500000000005
+Host 35: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13397', 'instance_13603']
+energyConsumption:75.375,accumulatedEnergy:400.5,accumulatedCost:0.0153525
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:155.25,accumulatedCost:0.00595125
+Host 1: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13588', 'instance_13829', 'instance_13848']
+energyConsumption:102.375,accumulatedEnergy:150.75,accumulatedCost:0.00577875
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 27: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13547']
+energyConsumption:41.625,accumulatedEnergy:83.25,accumulatedCost:0.00319125
+Host 31: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13602', 'instance_13605']
+energyConsumption:78.75,accumulatedEnergy:157.5,accumulatedCost:0.0060375
+Host 37: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13598', 'instance_13617', 'instance_13788']
+energyConsumption:95.625,accumulatedEnergy:191.25,accumulatedCost:0.007331250000000001
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 9: CPU=5600, MEM=8.0, GPU=300, Tasks=['instance_13554', 'instance_13600', 'instance_13604']
+energyConsumption:112.5,accumulatedEnergy:225.0,accumulatedCost:0.008625
+Host 4: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13595', 'instance_13835']
+energyConsumption:78.75,accumulatedEnergy:123.75,accumulatedCost:0.00474375
+Host 6: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13607', 'instance_13612', 'instance_13613']
+energyConsumption:102.375,accumulatedEnergy:204.75,accumulatedCost:0.00784875
+Host 23: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13594']
+energyConsumption:45.0,accumulatedEnergy:90.0,accumulatedCost:0.00345
+done:False
+Task instance_13876 scheduled on host 32
+Task instance_13878 scheduled on host 31
+epsilon: 0.6983372960937497
+time: 10, total reward: -4.171559916080464, assign_num: 3, avg reward: -1.3905199720268213
+undeployed tasks len: 1
+Current time: 11, Done: 0
+Host 3: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13354', 'instance_13363']
+energyConsumption:78.75,accumulatedEnergy:866.25,accumulatedCost:0.03320625
+Host 29: CPU=5600, MEM=32.0, GPU=400, Tasks=['instance_13589', 'instance_13792', 'instance_13795']
+energyConsumption:99.0,accumulatedEnergy:246.375,accumulatedCost:0.009444375
+Host 31: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13602', 'instance_13605', 'instance_13878']
+energyConsumption:109.125,accumulatedEnergy:266.625,accumulatedCost:0.010220625
+Host 7: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13535', 'instance_13794', 'instance_13852']
+energyConsumption:109.125,accumulatedEnergy:315.0,accumulatedCost:0.012074999999999999
+Host 32: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13626', 'instance_13876']
+energyConsumption:72.0,accumulatedEnergy:168.75,accumulatedCost:0.0064687500000000005
+Host 4: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13595', 'instance_13835']
+energyConsumption:78.75,accumulatedEnergy:202.5,accumulatedCost:0.0077625
+Host 1: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13588', 'instance_13829', 'instance_13848']
+energyConsumption:102.375,accumulatedEnergy:253.125,accumulatedCost:0.009703125
+Host 6: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13607', 'instance_13612', 'instance_13613']
+energyConsumption:102.375,accumulatedEnergy:307.125,accumulatedCost:0.011773124999999999
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:207.0,accumulatedCost:0.007935
+Host 2: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13606', 'instance_13624', 'instance_13763']
+energyConsumption:105.75,accumulatedEnergy:317.25,accumulatedCost:0.01216125
+Host 27: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13547']
+energyConsumption:41.625,accumulatedEnergy:124.875,accumulatedCost:0.004786875
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:411.75,accumulatedCost:0.015783750000000003
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13625']
+energyConsumption:41.625,accumulatedEnergy:124.875,accumulatedCost:0.004786875
+Host 36: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13571', 'instance_13784', 'instance_13826']
+energyConsumption:95.625,accumulatedEnergy:263.25,accumulatedCost:0.010091250000000001
+Host 15: CPU=6400, MEM=48.0, GPU=650, Tasks=['instance_13546', 'instance_13573']
+energyConsumption:68.625,accumulatedEnergy:205.875,accumulatedCost:0.007891875
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13596']
+energyConsumption:51.75,accumulatedEnergy:155.25,accumulatedCost:0.00595125
+Host 12: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13572', 'instance_13597', 'instance_13614']
+energyConsumption:105.75,accumulatedEnergy:317.25,accumulatedCost:0.01216125
+Host 23: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13594']
+energyConsumption:45.0,accumulatedEnergy:135.0,accumulatedCost:0.005175
+Host 37: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13598', 'instance_13617', 'instance_13788']
+energyConsumption:95.625,accumulatedEnergy:286.875,accumulatedCost:0.010996875000000001
+Host 8: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13593', 'instance_13601', 'instance_13618']
+energyConsumption:102.375,accumulatedEnergy:307.125,accumulatedCost:0.011773124999999999
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 13: CPU=5600, MEM=8.0, GPU=250, Tasks=['instance_13534', 'instance_13590', 'instance_13591']
+energyConsumption:115.87499999999999,accumulatedEnergy:399.375,accumulatedCost:0.015309374999999998
+Host 22: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13831', 'instance_13836']
+energyConsumption:72.0,accumulatedEnergy:144.0,accumulatedCost:0.005520000000000001
+Host 24: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13587']
+energyConsumption:41.625,accumulatedEnergy:124.875,accumulatedCost:0.004786875
+Host 30: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13525', 'instance_13844']
+energyConsumption:72.0,accumulatedEnergy:234.0,accumulatedCost:0.00897
+Host 28: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13608']
+energyConsumption:48.375,accumulatedEnergy:145.125,accumulatedCost:0.005563125
+Host 9: CPU=5600, MEM=8.0, GPU=300, Tasks=['instance_13554', 'instance_13600', 'instance_13604']
+energyConsumption:112.5,accumulatedEnergy:337.5,accumulatedCost:0.012937500000000001
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:432.0,accumulatedCost:0.016560000000000002
+Host 33: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13592']
+energyConsumption:51.75,accumulatedEnergy:155.25,accumulatedCost:0.00595125
+Host 25: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13543', 'instance_13623', 'instance_13780']
+energyConsumption:109.125,accumulatedEnergy:372.375,accumulatedCost:0.014274374999999999
+Host 11: CPU=6400, MEM=56.0, GPU=500, Tasks=['instance_13785', 'instance_13797']
+energyConsumption:76.5,accumulatedEnergy:204.75,accumulatedCost:0.007848750000000002
+Host 26: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13789']
+energyConsumption:45.0,accumulatedEnergy:135.0,accumulatedCost:0.005175
+Host 0: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13599', 'instance_13791', 'instance_13814']
+energyConsumption:102.375,accumulatedEnergy:246.375,accumulatedCost:0.009444375
+Host 18: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13397', 'instance_13603']
+energyConsumption:75.375,accumulatedEnergy:475.875,accumulatedCost:0.018241875
+Host 10: CPU=6400, MEM=48.0, GPU=700, Tasks=['instance_13628', 'instance_13822']
+energyConsumption:65.25,accumulatedEnergy:172.125,accumulatedCost:0.006598125
+Host 17: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13786', 'instance_13847']
+energyConsumption:75.375,accumulatedEnergy:202.5,accumulatedCost:0.0077625
+done:False
+Task instance_13889 scheduled on host 39
+Task instance_13939 scheduled on host 3
+Task instance_13942 scheduled on host 18
+Task instance_13943 scheduled on host 33
+epsilon: 0.6634204312890623
+time: 11, total reward: -7.637662508938826, assign_num: 5, avg reward: -1.5275325017877652
+undeployed tasks len: 1
+Current time: 12, Done: 0
+Host 23: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13594']
+energyConsumption:45.0,accumulatedEnergy:180.0,accumulatedCost:0.0069
+Host 18: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13942']
+energyConsumption:48.375,accumulatedEnergy:48.375,accumulatedCost:0.0018543750000000001
+Host 13: CPU=5600, MEM=8.0, GPU=250, Tasks=['instance_13534', 'instance_13590', 'instance_13591']
+energyConsumption:115.87499999999999,accumulatedEnergy:515.25,accumulatedCost:0.019751249999999998
+Host 3: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13354', 'instance_13363', 'instance_13939']
+energyConsumption:109.125,accumulatedEnergy:975.375,accumulatedCost:0.037389375
+Host 1: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13588', 'instance_13829', 'instance_13848']
+energyConsumption:102.375,accumulatedEnergy:355.5,accumulatedCost:0.0136275
+Host 6: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13607', 'instance_13612', 'instance_13613']
+energyConsumption:102.375,accumulatedEnergy:409.5,accumulatedCost:0.0156975
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:258.75,accumulatedCost:0.009918749999999999
+Host 0: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13599', 'instance_13791', 'instance_13814']
+energyConsumption:102.375,accumulatedEnergy:348.75,accumulatedCost:0.013368749999999999
+Host 7: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13535', 'instance_13794', 'instance_13852']
+energyConsumption:109.125,accumulatedEnergy:424.125,accumulatedCost:0.016258125
+Host 25: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13543', 'instance_13623', 'instance_13780']
+energyConsumption:109.125,accumulatedEnergy:481.5,accumulatedCost:0.018457499999999998
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:480.375,accumulatedCost:0.018414375000000004
+Host 36: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13571', 'instance_13784', 'instance_13826']
+energyConsumption:95.625,accumulatedEnergy:358.875,accumulatedCost:0.013756875000000002
+Host 27: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13547']
+energyConsumption:41.625,accumulatedEnergy:166.5,accumulatedCost:0.0063825
+Host 37: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13598', 'instance_13617', 'instance_13788']
+energyConsumption:95.625,accumulatedEnergy:382.5,accumulatedCost:0.014662500000000002
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:504.0,accumulatedCost:0.019320000000000004
+Host 8: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13593', 'instance_13601', 'instance_13618']
+energyConsumption:102.375,accumulatedEnergy:409.5,accumulatedCost:0.0156975
+Host 34: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13596']
+energyConsumption:51.75,accumulatedEnergy:207.0,accumulatedCost:0.007935
+Host 2: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13606', 'instance_13624', 'instance_13763']
+energyConsumption:105.75,accumulatedEnergy:423.0,accumulatedCost:0.016215
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 35: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13397', 'instance_13603']
+energyConsumption:75.375,accumulatedEnergy:551.25,accumulatedCost:0.02113125
+Host 4: CPU=6400, MEM=48.0, GPU=500, Tasks=['instance_13595', 'instance_13835']
+energyConsumption:78.75,accumulatedEnergy:281.25,accumulatedCost:0.010781250000000001
+Host 24: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13587']
+energyConsumption:41.625,accumulatedEnergy:166.5,accumulatedCost:0.0063825
+Host 9: CPU=5600, MEM=8.0, GPU=300, Tasks=['instance_13554', 'instance_13600', 'instance_13604']
+energyConsumption:112.5,accumulatedEnergy:450.0,accumulatedCost:0.01725
+Host 21: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13625']
+energyConsumption:41.625,accumulatedEnergy:166.5,accumulatedCost:0.0063825
+Host 17: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13786', 'instance_13847']
+energyConsumption:75.375,accumulatedEnergy:277.875,accumulatedCost:0.010651875
+Host 26: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13789']
+energyConsumption:45.0,accumulatedEnergy:180.0,accumulatedCost:0.0069
+Host 11: CPU=6400, MEM=56.0, GPU=500, Tasks=['instance_13785', 'instance_13797']
+energyConsumption:76.5,accumulatedEnergy:281.25,accumulatedCost:0.010781250000000003
+Host 10: CPU=6400, MEM=48.0, GPU=700, Tasks=['instance_13628', 'instance_13822']
+energyConsumption:65.25,accumulatedEnergy:237.375,accumulatedCost:0.009099375
+Host 29: CPU=5600, MEM=32.0, GPU=400, Tasks=['instance_13589', 'instance_13792', 'instance_13795']
+energyConsumption:99.0,accumulatedEnergy:345.375,accumulatedCost:0.013239375
+Host 30: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13525', 'instance_13844']
+energyConsumption:72.0,accumulatedEnergy:306.0,accumulatedCost:0.01173
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 22: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13831', 'instance_13836']
+energyConsumption:72.0,accumulatedEnergy:216.0,accumulatedCost:0.008280000000000001
+Host 15: CPU=6400, MEM=48.0, GPU=650, Tasks=['instance_13546', 'instance_13573']
+energyConsumption:68.625,accumulatedEnergy:274.5,accumulatedCost:0.0105225
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 39: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13889']
+energyConsumption:41.625,accumulatedEnergy:41.625,accumulatedCost:0.001595625
+Host 32: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13626', 'instance_13876']
+energyConsumption:72.0,accumulatedEnergy:240.75,accumulatedCost:0.00922875
+Host 28: CPU=7200, MEM=88.0, GPU=650, Tasks=['instance_13608']
+energyConsumption:48.375,accumulatedEnergy:193.5,accumulatedCost:0.0074175000000000005
+Host 12: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13572', 'instance_13597', 'instance_13614']
+energyConsumption:105.75,accumulatedEnergy:423.0,accumulatedCost:0.016215
+Host 31: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13602', 'instance_13605', 'instance_13878']
+energyConsumption:109.125,accumulatedEnergy:375.75,accumulatedCost:0.01440375
+Host 33: CPU=6400, MEM=48.0, GPU=450, Tasks=['instance_13592', 'instance_13943']
+energyConsumption:82.125,accumulatedEnergy:237.375,accumulatedCost:0.009099375
+done:False
+Task instance_13880 scheduled on host 10
+Task instance_13965 scheduled on host 18
+Task instance_13969 scheduled on host 18
+Task instance_13970 scheduled on host 4
+Task instance_13974 scheduled on host 26
+Task instance_13977 scheduled on host 30
+Task instance_14019 scheduled on host 28
+epsilon: 0.6302494097246091
+time: 12, total reward: -13.52946410234674, assign_num: 10, avg reward: -1.352946410234674
+undeployed tasks len: 3
+Current time: 13, Done: 0
+Host 19: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 34: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13596']
+energyConsumption:51.75,accumulatedEnergy:258.75,accumulatedCost:0.009918749999999999
+Host 10: CPU=5600, MEM=8.0, GPU=600, Tasks=['instance_13628', 'instance_13822', 'instance_13880']
+energyConsumption:92.25,accumulatedEnergy:329.625,accumulatedCost:0.012635625000000001
+Host 31: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13602', 'instance_13605', 'instance_13878']
+energyConsumption:109.125,accumulatedEnergy:484.875,accumulatedCost:0.018586875
+Host 5: CPU=6800, MEM=8.0, GPU=750, Tasks=['instance_13470']
+energyConsumption:68.625,accumulatedEnergy:549.0,accumulatedCost:0.021045000000000005
+Host 2: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13606', 'instance_13624', 'instance_13763']
+energyConsumption:105.75,accumulatedEnergy:528.75,accumulatedCost:0.020268750000000002
+Host 15: CPU=6400, MEM=48.0, GPU=650, Tasks=['instance_13546', 'instance_13573']
+energyConsumption:68.625,accumulatedEnergy:343.125,accumulatedCost:0.013153125000000002
+Host 13: CPU=5600, MEM=8.0, GPU=250, Tasks=['instance_13534', 'instance_13590', 'instance_13591']
+energyConsumption:115.87499999999999,accumulatedEnergy:631.125,accumulatedCost:0.024193124999999996
+Host 25: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13543', 'instance_13623', 'instance_13780']
+energyConsumption:109.125,accumulatedEnergy:590.625,accumulatedCost:0.022640624999999998
+Host 11: CPU=6400, MEM=56.0, GPU=500, Tasks=['instance_13785', 'instance_13797']
+energyConsumption:76.5,accumulatedEnergy:357.75,accumulatedCost:0.013713750000000004
+Host 8: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13593', 'instance_13601', 'instance_13618']
+energyConsumption:102.375,accumulatedEnergy:511.875,accumulatedCost:0.019621875
+Host 30: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13525', 'instance_13844', 'instance_13977']
+energyConsumption:102.375,accumulatedEnergy:408.375,accumulatedCost:0.015654375
+Host 16: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+Host 21: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13625']
+energyConsumption:41.625,accumulatedEnergy:208.125,accumulatedCost:0.007978125
+Host 32: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13626', 'instance_13876']
+energyConsumption:72.0,accumulatedEnergy:312.75,accumulatedCost:0.011988750000000001
+Host 26: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13789', 'instance_13974']
+energyConsumption:72.0,accumulatedEnergy:252.0,accumulatedCost:0.00966
+Host 4: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13595', 'instance_13835', 'instance_13970']
+energyConsumption:102.375,accumulatedEnergy:383.625,accumulatedCost:0.014705625
+Host 20: CPU=7200, MEM=88.0, GPU=600, Tasks=['instance_13526']
+energyConsumption:51.75,accumulatedEnergy:310.5,accumulatedCost:0.011902499999999998
+Host 22: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13831', 'instance_13836']
+energyConsumption:72.0,accumulatedEnergy:288.0,accumulatedCost:0.011040000000000001
+Host 27: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13547']
+energyConsumption:41.625,accumulatedEnergy:208.125,accumulatedCost:0.007978125
+Host 3: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13354', 'instance_13363', 'instance_13939']
+energyConsumption:109.125,accumulatedEnergy:1084.5,accumulatedCost:0.041572500000000005
+Host 18: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13942', 'instance_13965', 'instance_13969']
+energyConsumption:105.75,accumulatedEnergy:154.125,accumulatedCost:0.005908125
+Host 0: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13599', 'instance_13791', 'instance_13814']
+energyConsumption:102.375,accumulatedEnergy:451.125,accumulatedCost:0.017293125
+Host 17: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13786', 'instance_13847']
+energyConsumption:75.375,accumulatedEnergy:353.25,accumulatedCost:0.01354125
+Host 37: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13598', 'instance_13617', 'instance_13788']
+energyConsumption:95.625,accumulatedEnergy:478.125,accumulatedCost:0.018328125
+Host 6: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13607', 'instance_13612', 'instance_13613']
+energyConsumption:102.375,accumulatedEnergy:511.875,accumulatedCost:0.019621875
+Host 1: CPU=5600, MEM=8.0, GPU=450, Tasks=['instance_13588', 'instance_13829', 'instance_13848']
+energyConsumption:102.375,accumulatedEnergy:457.875,accumulatedCost:0.017551875
+Host 35: CPU=6400, MEM=48.0, GPU=550, Tasks=['instance_13397', 'instance_13603']
+energyConsumption:75.375,accumulatedEnergy:626.625,accumulatedCost:0.024020625
+Host 9: CPU=5600, MEM=8.0, GPU=300, Tasks=['instance_13554', 'instance_13600', 'instance_13604']
+energyConsumption:112.5,accumulatedEnergy:562.5,accumulatedCost:0.021562500000000002
+Host 33: CPU=6400, MEM=48.0, GPU=450, Tasks=['instance_13592', 'instance_13943']
+energyConsumption:82.125,accumulatedEnergy:319.5,accumulatedCost:0.0122475
+Host 36: CPU=5600, MEM=8.0, GPU=550, Tasks=['instance_13571', 'instance_13784', 'instance_13826']
+energyConsumption:95.625,accumulatedEnergy:454.5,accumulatedCost:0.0174225
+Host 24: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13587']
+energyConsumption:41.625,accumulatedEnergy:208.125,accumulatedCost:0.007978125
+Host 28: CPU=6400, MEM=48.0, GPU=600, Tasks=['instance_13608', 'instance_14019']
+energyConsumption:72.0,accumulatedEnergy:265.5,accumulatedCost:0.0101775
+Host 12: CPU=5600, MEM=8.0, GPU=400, Tasks=['instance_13572', 'instance_13597', 'instance_13614']
+energyConsumption:105.75,accumulatedEnergy:528.75,accumulatedCost:0.020268750000000002
+Host 7: CPU=5600, MEM=8.0, GPU=350, Tasks=['instance_13535', 'instance_13794', 'instance_13852']
+energyConsumption:109.125,accumulatedEnergy:533.25,accumulatedCost:0.020441249999999998
+Host 39: CPU=7200, MEM=88.0, GPU=750, Tasks=['instance_13889']
+energyConsumption:41.625,accumulatedEnergy:83.25,accumulatedCost:0.00319125
+Host 14: CPU=6800, MEM=8.0, GPU=700, Tasks=['instance_13471']
+energyConsumption:72.0,accumulatedEnergy:576.0,accumulatedCost:0.022080000000000002
+Host 23: CPU=7200, MEM=88.0, GPU=700, Tasks=['instance_13594']
+energyConsumption:45.0,accumulatedEnergy:225.0,accumulatedCost:0.008625
+Host 29: CPU=5600, MEM=32.0, GPU=400, Tasks=['instance_13589', 'instance_13792', 'instance_13795']
+energyConsumption:99.0,accumulatedEnergy:444.375,accumulatedCost:0.017034374999999997
+Host 38: CPU=8000, MEM=128, GPU=800, Tasks=[]
+energyConsumption:0.0,accumulatedEnergy:0.0,accumulatedCost:0.0
+done:False
+Task instance_13973 scheduled on host 27

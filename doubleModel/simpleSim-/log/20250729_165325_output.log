@@ -1,0 +1,2 @@
+Namespace(algorithm_name='DQN', reward_name='my_reward', sort_name='FirstSubmit', workload_path='./dataset/workload_ali2025.csv', host_path='./dataset/host.csv', log_path='./log/', episode=20)
+Episode: 0
